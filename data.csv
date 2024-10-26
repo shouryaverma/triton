@@ -1,0 +1,311 @@
+Number,Extractant,Extractant Name,Phenyl Rings,Upper Rim,Lower Rim,Methylene Bridge,Extracted Name,Extractant Conc,Extracted Conc,Spectator Ions,Chemical Groups,Acid Molarity,Extraction Efficiency
+1,TOPO,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+2,TOPO,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+3,TOPO,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+4,TOPO,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,1.4
+5,TOPO,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,10.2
+6,TOPO,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,64.2
+7,TOPO,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,18
+8,CMPO,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+9,CMPO,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+10,CMPO,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+11,CMPO,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,1.6
+12,CMPO,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,12.2
+13,CMPO,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,70.4
+14,CMPO,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,69.5
+15,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+16,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,5.6
+17,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,26.8
+18,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,96.1
+19,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+20,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+21,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+22,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+23,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,23.6
+24,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,62.5
+25,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,98.8
+26,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+27,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+28,1b,,6,t-butyl,(CH2)2P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,20.8
+29,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+30,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+31,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+32,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,30.6
+33,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,60.1
+34,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,88.4
+35,1c,,8,t-butyl,(CH2)2P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,0
+36,1d,,4,H,(CH2)2P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,2.6
+37,1d,,4,H,(CH2)2P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,46.9
+38,1d,,4,H,(CH2)2P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,79.8
+39,1d,,4,H,(CH2)2P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+40,1d,,4,H,(CH2)2P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+41,1d,,4,H,(CH2)2P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+42,1d,,4,H,(CH2)2P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,24.6
+43,1e,,6,H,(CH2)2P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,9.4
+44,1e,,6,H,(CH2)2P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,79.4
+45,1e,,6,H,(CH2)2P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,94.8
+46,1e,,6,H,(CH2)2P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+47,1e,,6,H,(CH2)2P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+48,1e,,6,H,(CH2)2P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+49,1e,,6,H,(CH2)2P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,94.3
+50,1f,,8,H,(CH2)2P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,5.1
+51,1f,,8,H,(CH2)2P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,62.6
+52,1f,,8,H,(CH2)2P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,87.9
+53,1f,,8,H,(CH2)2P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+54,1f,,8,H,(CH2)2P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+55,1f,,8,H,(CH2)2P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+56,1f,,8,H,(CH2)2P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,92
+57,2a,,4,t-butyl,(CH2)P(PH)2O,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+58,2a,,4,t-butyl,(CH2)P(PH)2O,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,31.5
+59,2a,,4,t-butyl,(CH2)P(PH)2O,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,55.5
+60,2a,,4,t-butyl,(CH2)P(PH)2O,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+61,2a,,4,t-butyl,(CH2)P(PH)2O,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+62,2a,,4,t-butyl,(CH2)P(PH)2O,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+63,2a,,4,t-butyl,(CH2)P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,86.2
+64,4a,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,20
+65,4a,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+66,4a,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+67,4a,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+68,4a,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+69,4a,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+70,4a,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,97
+71,4b,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+72,4b,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+73,4b,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,38
+74,4b,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+75,4b,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+76,4b,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+77,4b,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,8
+78,4c,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+79,4c,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+80,4c,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,95
+81,4c,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+82,4c,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+83,4c,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+84,4c,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,97
+85,4d,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+86,4d,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,95
+87,4d,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,100
+88,4d,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+89,4d,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+90,4d,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+91,4d,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+92,4e,,None,None,None,None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+93,4e,,None,None,None,None,Th(IV),0.0005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+94,4e,,None,None,None,None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,87
+95,4e,,None,None,None,None,Th(IV),0.005,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+96,4e,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+97,4e,,None,None,None,None,Th(IV),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,None
+98,4e,,None,None,None,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,85
+99,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Li(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.7
+100,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Na(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.5
+101,1a,,4,t-butyl,(CH2)2P(PH)2O,None,K(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.3
+102,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Rb(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.5
+103,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Cs(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.4
+104,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Mg(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.6
+105,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Ca(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,2.6
+106,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Sr(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.8
+107,1a,,4,t-butyl,(CH2)2P(PH)2O,None,Ba(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,0.5
+108,1d,,4,H,(CH2)2P(PH)2O,None,Li(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.5
+109,1d,,4,H,(CH2)2P(PH)2O,None,Na(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.7
+110,1d,,4,H,(CH2)2P(PH)2O,None,K(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.8
+111,1d,,4,H,(CH2)2P(PH)2O,None,Rb(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.6
+112,1d,,4,H,(CH2)2P(PH)2O,None,Cs(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.6
+113,1d,,4,H,(CH2)2P(PH)2O,None,Mg(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3
+114,1d,,4,H,(CH2)2P(PH)2O,None,Ca(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,5
+115,1d,,4,H,(CH2)2P(PH)2O,None,Sr(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.3
+116,1d,,4,H,(CH2)2P(PH)2O,None,Ba(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.1
+117,2a,,4,t-butyl,(CH2)P(PH)2O,None,Li(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,7.6
+118,2a,,4,t-butyl,(CH2)P(PH)2O,None,Na(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,6
+119,2a,,4,t-butyl,(CH2)P(PH)2O,None,K(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,22.3
+120,2a,,4,t-butyl,(CH2)P(PH)2O,None,Rb(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,17
+121,2a,,4,t-butyl,(CH2)P(PH)2O,None,Cs(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,6.4
+122,2a,,4,t-butyl,(CH2)P(PH)2O,None,Mg(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,5.6
+123,2a,,4,t-butyl,(CH2)P(PH)2O,None,Ca(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,23
+124,2a,,4,t-butyl,(CH2)P(PH)2O,None,Sr(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,9.8
+125,2a,,4,t-butyl,(CH2)P(PH)2O,None,Ba(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,8.4
+126,2b,,5,t-butyl,(CH2)P(PH)2O,None,Li(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,28.5
+127,2b,,5,t-butyl,(CH2)P(PH)2O,None,Na(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,37.9
+128,2b,,5,t-butyl,(CH2)P(PH)2O,None,K(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,45
+129,2b,,5,t-butyl,(CH2)P(PH)2O,None,Rb(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,50.7
+130,2b,,5,t-butyl,(CH2)P(PH)2O,None,Cs(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,56.9
+131,2b,,5,t-butyl,(CH2)P(PH)2O,None,Mg(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,18.2
+132,2b,,5,t-butyl,(CH2)P(PH)2O,None,Ca(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,62.5
+133,2b,,5,t-butyl,(CH2)P(PH)2O,None,Sr(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,52.2
+134,2b,,5,t-butyl,(CH2)P(PH)2O,None,Ba(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,62.3
+135,3a,,4,t-butyl,(CH2)P(PH)2O,None,Li(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,53.4
+136,3a,,4,t-butyl,diethylamido,None,Na(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,65.1
+137,3a,,4,t-butyl,diethylamido,None,K(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,42.6
+138,3a,,4,t-butyl,diethylamido,None,Rb(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,20
+139,3a,,4,t-butyl,diethylamido,None,Cs(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,13
+140,3a,,4,t-butyl,diethylamido,None,Mg(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,3.7
+141,3a,,4,t-butyl,diethylamido,None,Ca(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,15.8
+142,3a,,4,t-butyl,diethylamido,None,Sr(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,15.4
+143,3a,,4,t-butyl,diethylamido,None,Ba(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,12.5
+144,3b,,4,t-butyl,O-tert butyl,None,Li(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,8.5
+145,3b,,4,t-butyl,O-tert butyl,None,Na(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,17.9
+146,3b,,4,t-butyl,O-tert butyl,None,K(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,13.7
+147,3b,,4,t-butyl,O-tert butyl,None,Rb(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,5.3
+148,3b,,4,t-butyl,O-tert butyl,None,Cs(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,5
+149,3b,,4,t-butyl,O-tert butyl,None,Mg(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,1.2
+150,3b,,4,t-butyl,O-tert butyl,None,Ca(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,1.1
+151,3b,,4,t-butyl,O-tert butyl,None,Sr(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,1.4
+152,3b,,4,t-butyl,O-tert butyl,None,Ba(I),0.0025,0.0025,"NO3(2-), picrate, H2O",None,1M HNO3,1.4
+153,6,,4,t-butyl,(CH2)P(PH)2O,None,La(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,27
+154,6,,4,t-butyl,(CH2)P(PH)2O,None,Ce(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,13
+155,6,,4,t-butyl,(CH2)P(PH)2O,None,Pr(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,31
+156,6,,4,t-butyl,(CH2)P(PH)2O,None,Nd(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,14
+157,6,,4,t-butyl,(CH2)P(PH)2O,None,Sm(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,31
+158,6,,4,t-butyl,(CH2)P(PH)2O,None,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,67
+159,6,,4,t-butyl,(CH2)P(PH)2O,None,Gd(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,25
+160,6,,4,t-butyl,(CH2)P(PH)2O,None,Dy(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,18
+161,6,,4,t-butyl,(CH2)P(PH)2O,None,Yb(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,17
+162,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,La(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,15
+163,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Ce(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,12
+164,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Pr(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,16
+165,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Nd(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,12
+166,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Sm(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,25
+167,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Eu(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,55
+168,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Gd(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,20
+169,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Dy(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,16
+170,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Yb(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,13
+171,6,,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Y(III),0.025,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,13
+172,1a,,4,t-butyl,H,None,La(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O, C6H8O7, Na2HPO4",Na2HPO4,0.1M C6H8O7 ,42.42
+173,1a,,4,t-butyl,H,None,Ce(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO5,0.1M C6H8O8,29.63
+174,1a,,4,t-butyl,H,None,Pr(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO6,0.1M C6H8O9,30
+175,1a,,4,t-butyl,H,None,Nd(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO7,0.1M C6H8O10,17.86
+176,1a,,4,t-butyl,H,None,Sm(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO8,0.1M C6H8O11,0
+177,1a,,4,t-butyl,H,None,Eu(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO9,0.1M C6H8O12,0
+178,1a,,4,t-butyl,H,None,Gd(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO10,0.1M C6H8O13,2.78
+179,1a,,4,t-butyl,H,None,Dy(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO11,0.1M C6H8O14,0
+180,1a,,4,t-butyl,H,None,Ho(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO12,0.1M C6H8O15,0
+181,1a,,4,t-butyl,H,None,Er(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO13,0.1M C6H8O16,15.58
+182,1a,,4,t-butyl,H,None,Yb(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO14,0.1M C6H8O17,0
+183,1a,,4,t-butyl,H,None,Lu(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO15,0.1M C6H8O18,0
+184,1a,,4,t-butyl,H,None,Y(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO16,0.1M C6H8O19,0
+185,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,La(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O, C6H8O7, Na2HPO4",Na2HPO17,0.1M C6H8O20,81.58
+186,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Ce(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO18,0.1M C6H8O21,80.56
+187,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Pr(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO19,0.1M C6H8O22,70.59
+188,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Nd(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO20,0.1M C6H8O23,46.67
+189,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Sm(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO21,0.1M C6H8O24,36
+190,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Eu(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO22,0.1M C6H8O25,34.29
+191,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Gd(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO23,0.1M C6H8O26,5.56
+192,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Dy(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO24,0.1M C6H8O27,4.55
+193,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Ho(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO25,0.1M C6H8O28,5.88
+194,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Er(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO26,0.1M C6H8O29,23.08
+195,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Yb(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO27,0.1M C6H8O30,0
+196,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Lu(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO28,0.1M C6H8O31,0
+197,1b,,4,t-butyl,(CH2)(CO)(OCH2CH3),None,Y(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO29,0.1M C6H8O32,22.22
+198,1c,,4,t-butyl,OCH3,None,La(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O, C6H8O7, Na2HPO4",Na2HPO30,0.1M C6H8O33,77.27
+199,1c,,4,t-butyl,OCH3,None,Ce(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO31,0.1M C6H8O34,79.17
+200,1c,,4,t-butyl,OCH3,None,Pr(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO32,0.1M C6H8O35,68.75
+201,1c,,4,t-butyl,OCH3,None,Nd(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO33,0.1M C6H8O36,44
+202,1c,,4,t-butyl,OCH3,None,Sm(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO34,0.1M C6H8O37,48.15
+203,1c,,4,t-butyl,OCH3,None,Eu(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO35,0.1M C6H8O38,34.29
+204,1c,,4,t-butyl,OCH3,None,Gd(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO36,0.1M C6H8O39,6.25
+205,1c,,4,t-butyl,OCH3,None,Dy(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO37,0.1M C6H8O40,5
+206,1c,,4,t-butyl,OCH3,None,Ho(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO38,0.1M C6H8O41,12.5
+207,1c,,4,t-butyl,OCH3,None,Er(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO39,0.1M C6H8O42,10
+208,1c,,4,t-butyl,OCH3,None,Yb(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO40,0.1M C6H8O43,0
+209,1c,,4,t-butyl,OCH3,None,Lu(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO41,0.1M C6H8O44,0
+210,1c,,4,t-butyl,OCH3,None,Y(III),0.001425,0.0000057,"NO3(2-), dichloromethane, H2O",Na2HPO42,0.1M C6H8O45,0
+211,TOPO,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,10.2
+212,TOPO,,None,None,None,None,Eu(III),0.25,0.001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,18
+213,CMPO,,None,None,None,None,Th(IV),0.01,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,12.2
+214,CMPO,,None,None,None,None,Eu(III),0.25,0.001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,69.5
+215,2a,,4,pentyl,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,39
+216,2a,,4,pentyl,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,47
+217,2b,,4,(CH2)(CH)(C4H9)(C2H5),NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",C2H5 and C4H9,1M HNO3,26
+218,2b,,4,(CH2)(CH)(C4H9)(C2H5),NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",C2H5 and C4H9,1M HNO3,24
+219,2c,,4,C10H21,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",decyl,1M HNO3,53
+220,2c,,4,C10H21,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",decyl,1M HNO3,68
+221,2d,,4,C12H25,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",dodecyl,1M HNO3,63
+222,2d,,4,C12H25,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",dodecyl,1M HNO3,68
+223,2e,,4,C14H29,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",tetradecyl,1M HNO3,54
+224,2e,,4,C14H29,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",tetradecyl,1M HNO3,72
+225,2f,,4,C16H33,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",hexadecyl,1M HNO3,51.5
+226,2f,,4,C16H33,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",hexadecyl,1M HNO3,69.5
+227,2g,,4,C18H37,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,50
+228,2g,,4,C18H37,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,59
+229,2h,,5,C14H29,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",Tetradecyl,1M HNO3,46
+230,2h,,5,C14H29,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",Tetradecyl,1M HNO3,None
+231,3a,,4,(CH2)(CH)(C4H9)(C2H5),NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,32
+232,3a,,4,(CH2)(CH)(C4H9)(C2H5),NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",None,1M HNO3,20
+233,3b,,4,C10H21,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",decyl,1M HNO3,39
+234,3b,,4,C10H21,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",decyl,1M HNO3,40
+235,3c,,4,C18H37,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,43
+236,3c,,4,C18H37,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,49
+237,4b,,2,C18H37,NH(CO)(POPh2),None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,17
+238,4b,,2,C18H37,NH(CO)(POPh2),None,Eu(III),0.001,0.001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,None
+239,4c,,3,C18H37,NH(CO)(POPh2),None,Th(IV),0.001,0.0001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,78
+240,4c,,3,C18H37,NH(CO)(POPh2),None,Eu(III),0.001,0.001,"NO3(2-), dichloromethane, H2O",Octadecyl,1M HNO3,None
+241,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.9
+242,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.5
+243,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,3.3
+244,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.6
+245,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.5
+246,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5
+247,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.4
+248,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.8
+249,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.6
+250,1a,,4,t-butyl,(CH2)(CO)(CH3),OCH2,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.1
+251,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.8
+252,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.4
+253,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.3
+254,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.4
+255,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,12.3
+256,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.6
+257,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,19.1
+258,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7
+259,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,11.6
+260,1b,,4,t-butyl,(CH2)(CO)(t-butyl),OCH2,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,18
+261,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,9.3
+262,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.7
+263,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6
+264,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.9
+265,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,14
+266,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.4
+267,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,23
+268,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.9
+269,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,12
+270,1c,,4,t-butyl,(CH2)(CO)(adamantyl),OCH2,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,21
+271,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.9
+272,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6
+273,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.7
+274,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.3
+275,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,10.5
+276,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.7
+277,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,13.4
+278,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.5
+279,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.8
+280,1d,,4,t-butyl,(CH2)(CO)(phenyl),OCH2,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,16
+281,2a,,4,t-butyl,(CH2)(CO)(CH3),None,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.3
+282,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.2
+283,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.2
+284,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.2
+285,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.6
+286,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.9
+287,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.5
+288,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.1
+289,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.9
+290,2a,,4,t-butyl,(CH2)(CO)(CH3),None,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.3
+291,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.8
+292,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.3
+293,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.5
+294,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.5
+295,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.4
+296,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5
+297,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.1
+298,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.8
+299,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.9
+300,2c,,4,t-butyl,(CH2)(CO)(adamantyl),None,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.6
+301,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,La(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.3
+302,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Ce(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.6
+303,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Pr(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,4.1
+304,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Nd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,6.6
+305,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Sm(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.2
+306,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Eu(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.5
+307,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Gd(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.2
+308,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Dy(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,5.6
+309,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Er(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,7.1
+310,2d,,4,t-butyl,(CH2)(CO)(Phenyl),None,Yb(III),0.00025,0.00025,"Picrate, dichloromethane, H2O",None,None,8.1
