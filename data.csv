@@ -170,8 +170,8 @@ Number,Extractant,Extractant Name,Phenyl Rings,Upper Rim,Lower Rim,Methylene Bri
 169,6,s,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Dy(III),0.025,0.0001,yes,yes,no,None,1M HNO3,16
 170,6,s,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Yb(III),0.025,0.0001,yes,yes,no,None,1M HNO3,13
 171,6,s,4,t-butyl,(CH2)P(PH)2O,(CH2)5Cl,Y(III),0.025,0.0001,yes,yes,no,None,1M HNO3,13
-172,1a,t,4,t-butyl,H,None,La(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7 ,42.42
-173,1a,t,4,t-butyl,H,None,Ce(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7 ,29.63
+172,1a,t,4,t-butyl,H,None,La(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,42.42
+173,1a,t,4,t-butyl,H,None,Ce(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,29.63
 174,1a,t,4,t-butyl,H,None,Pr(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,30
 175,1a,t,4,t-butyl,H,None,Nd(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,17.86
 176,1a,t,4,t-butyl,H,None,Sm(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,0
