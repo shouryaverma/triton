@@ -1,13 +1,14 @@
-,XGBoost,Gradient Boost,Histogram GBM
+,XGBoost,Gradient Boost,Random Forest
 ions picarate,1,1,1
-Extractant Conc,2,2,2
-Upper Rim,3,3,3
+Extractant Name,2,3,2
+Extractant Conc,3,2,3
 Extracted Name,4,4,5
-Lower Rim,5,5,4
+Upper Rim,5,5,4
 Phenyl Rings,6,6,6
-Extracted Conc,7,7,8
-Methylene Bridge,8,9,9
-Chemical Groups,9,10,7
-Acid Molarity,10,8,10
-ions dichloromethane,11,11,11
-ion NO3(2-),12,12,12
+Lower Rim,7,7,7
+Extracted Conc,8,9,10
+Methylene Bridge,9,8,8
+Chemical Groups,10,11,9
+Acid Molarity,11,12,11
+ions dichloromethane,12,10,12
+ion NO3(2-),13,13,13
