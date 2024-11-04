@@ -227,8 +227,8 @@ Number,Extractant,Extractant Name,Phenyl Rings,Upper Rim,Lower Rim,Methylene Bri
 226,2f,bb,4,C16H33,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,yes,yes,no,hexadecyl,1M HNO3,69.5
 227,2g,cc,4,C18H37,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,yes,yes,no,Octadecyl,1M HNO3,50
 228,2g,cc,4,C18H37,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,yes,yes,no,Octadecyl,1M HNO3,59
-229,2h,dd,5,C14H29,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,yes,yes,no,Tetradecyl,1M HNO3,46
-230,2h,dd,5,C14H29,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,yes,yes,no,Tetradecyl,1M HNO3,None
+229,2h,dd,5,C14H29,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,yes,yes,no,tetradecyl,1M HNO3,46
+230,2h,dd,5,C14H29,NH(CO)(POPh2),None,Eu(III),0.0001,0.001,yes,yes,no,tetradecyl,1M HNO3,None
 231,3a,ee,4,(CH2)(CH)(C4H9)(C2H5),NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,yes,yes,no,None,1M HNO3,32
 232,3a,ee,4,(CH2)(CH)(C4H9)(C2H5),NH(CO)(POPh2),None,Eu(III),0.0001,0.001,yes,yes,no,None,1M HNO3,20
 233,3b,ff,4,C10H21,NH(CO)(POPh2),None,Th(IV),0.0001,0.0001,yes,yes,no,decyl,1M HNO3,39
