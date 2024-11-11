@@ -312,10 +312,30 @@ Number,Extractant,Extractant Name,Phenyl Rings,Upper Rim,Lower Rim,Methylene Bri
 311,L,qq,4,t-butyl,"(CH2)(CO)(NEt2), (CH2)(CO)(OH)",None,La(III),0.0096,0.0004,yes,yes,no,Na2HPO4,0.1M C6H8O7,92
 312,L,qq,4,t-butyl,"(CH2)(CO)(NEt2), (CH2)(CO)(OH)",None,Eu(III),0.0096,0.0004,yes,yes,no,Na2HPO4,0.1M C6H8O7,72
 313,L,qq,4,t-butyl,"(CH2)(CO)(NEt2), (CH2)(CO)(OH)",None,Tm(III),0.0096,0.0004,yes,yes,no,Na2HPO4,0.1M C6H8O7,44
-314,L,qq,4,t-butyl,"(CH2)(CO)(NEt2), (CH2)(CO)(OH)",None,Tm(III),0.0096,0.0004,yes,yes,no,Na2HPO4,0.1M C6H8O7,None
-315,2-chloroalkyl,rr,4,t-butyl,H,(CH2)6Cl,La(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,54.55
-316,2-chloroalkyl,rr,4,t-butyl,H,(CH2)6Cl,Ce(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,87.5
-317,2-chloroalkyl,rr,4,t-butyl,H,(CH2)6Cl,Pr(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,33.33
-318,2-chloroalkyl,rr,4,t-butyl,H,(CH2)6Cl,Nd(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,40
-319,2-chloroalkyl,rr,4,t-butyl,H,(CH2)6Cl,Sm(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,None
-320,2-chloroalkyl,rr,4,t-butyl,H,(CH2)6Cl,Eu(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,None
+314,L,qq,4,t-butyl,"(CH2)(CO)(NEt2), (CH2)(CO)(OH)",None,Tm(III),0.0096,0.0004,yes,yes,no,Na2HPO4,0.1M C6H8O7,40
+315,2-chl,rr,4,t-butyl,H,(CH2)6Cl,La(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,54.55
+316,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Ce(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,87.5
+317,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Pr(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,33.33
+318,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Nd(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,40
+319,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Sm(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,43.75
+320,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Eu(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,23.08
+321,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Gd(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,13.79
+322,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Er(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,11.11
+323,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Y(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,7.69
+324,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Ho(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,12.5
+325,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Lu(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,0
+326,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Dy(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,0
+327,2-chl,rr,4,t-butyl,H,(CH2)6Cl,Yb(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,9.09
+328,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,La(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,50
+329,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Ce(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,75
+330,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Pr(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,36.36
+331,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Nd(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,38.46
+332,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Sm(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,7.69
+333,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Eu(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,27.27
+334,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Gd(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,0
+335,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Er(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,0
+336,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Y(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,7.14
+337,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Ho(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,15.38
+338,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Lu(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,0
+339,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Dy(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,15
+340,2-chl,ss,4,t-butyl,OCH3,(CH2)6Cl,Yb(III),0.001425,0.0000057,yes,yes,no,Na2HPO4,0.1M C6H8O7,9.09
